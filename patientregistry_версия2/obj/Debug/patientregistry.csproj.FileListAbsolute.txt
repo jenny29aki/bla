@@ -1,0 +1,26 @@
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\bin\Debug\patientregistry.exe.config
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\bin\Debug\registr_v3.mdb
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\bin\Debug\patientregistry.exe
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\bin\Debug\patientregistry.pdb
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.enter.resources
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.MainForm.resources
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.Properties.Resources.resources
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.csproj.GenerateResource.Cache
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.exe
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.pdb
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\REGISTR_v100500\patientregistry\obj\Debug\patientregistry.diagram.resources
+D:\диплом\patientregistry\bin\Debug\patientregistry.exe.config
+D:\диплом\patientregistry\obj\Debug\patientregistry.exe
+D:\диплом\patientregistry\obj\Debug\patientregistry.pdb
+D:\диплом\patientregistry\obj\Debug\patientregistry.addPat.resources
+D:\диплом\patientregistry\obj\Debug\patientregistry.diagram.resources
+D:\диплом\patientregistry\obj\Debug\patientregistry.enter.resources
+D:\диплом\patientregistry\obj\Debug\patientregistry.MainForm.resources
+D:\диплом\patientregistry\obj\Debug\patientregistry.Properties.Resources.resources
+D:\диплом\patientregistry\obj\Debug\patientregistry.statistics.resources
+D:\диплом\patientregistry\obj\Debug\patientregistry.csproj.GenerateResource.Cache
+D:\диплом\patientregistry\bin\Debug\registr_v3.mdb
+D:\диплом\patientregistry\bin\Debug\patientregistry.exe
+D:\диплом\patientregistry\bin\Debug\patientregistry.pdb
+D:\диплом\patientregistry\obj\Debug\patientregistry.csprojResolveAssemblyReference.cache
